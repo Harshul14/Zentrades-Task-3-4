@@ -1,5 +1,3 @@
-
-
       function CheckPassword(inputtxt) 
       { 
         var decimal=  /^(?=.*[A-Z])(?=.*[0-9])(?=.*[@])[A-Za-z0-9@]{6,}$/;
