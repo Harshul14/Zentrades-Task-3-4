@@ -1,0 +1,74 @@
+html,
+        body {
+            height: 100%;
+            background-color: rgb(235, 231, 231);
+        }
+        .container {
+            height: 100%;
+            display: flex;
+            width: 47%;
+            justify-content: center;
+            align-items: center;
+        }
+        .containerinner{
+            display: flex;
+            width: 27em;
+            height: 20em;
+            justify-content: center;
+            border-radius: 5%;
+            align-items: center;
+        }
+        .but{
+            background: #40be99;
+            color: rgb(60, 63, 63);
+        }
+        .btn :hover{
+            background: #40be99;
+            color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #40be99,
+                        0 0 25px #40be99,
+                        0 0 50px #40be99,
+                        0 0 100px #40be99;
+        }
+        .containerinner { 
+            height: 75%;
+            position: relative;
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+        .bordercorner{
+            border-left: 0.7em solid #40be99;
+          }
+          canvas#horizontalBarChartCanvas {
+            max-width: 500px;
+            margin: 40px auto;
+          }
+          canvas#horizontalBarChartCanvas1 {
+            max-width:500px;
+            margin: 40px auto;
+          }
+          .pk{
+            background-color:rgb(235, 231, 231);
+            display:inline-flex;
+            width:100%;
+          height:100%;
+          }
+          .m1{
+            background-color:rgb(255, 255, 255);
+            margin-left:20px ;
+            margin-top:40px;
+            margin-bottom:100px;
+            width:600px;
+          }
+          .m2{
+            background-color:rgb(253, 250, 250);
+            margin-left:200px ;
+            margin-top:40px;
+            margin-bottom:100px;
+            width:600px;
+          }
