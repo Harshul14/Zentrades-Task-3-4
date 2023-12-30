@@ -42,3 +42,12 @@ The login dashboard is deployed on GitHub Pages and can be accessed through the 
 
 ### Credits:
 This project was developed by Harshul Varshney to meet specific functionality requirements for a login dashboard and a dashboard page.
+
+![image](https://github.com/Harshul14/Zentrades-Task-3-4/assets/71930077/86068c33-4949-4dd3-bda4-d3d709773647)
+![image](https://github.com/Harshul14/Zentrades-Task-3-4/assets/71930077/b3b37eb0-1bc5-4a88-a33b-115d4a4a0ba9)
+![image](https://github.com/Harshul14/Zentrades-Task-3-4/assets/71930077/90873833-98d1-455d-891c-3cadf46312fd)
+![image](https://github.com/Harshul14/Zentrades-Task-3-4/assets/71930077/06b4ff85-3668-43f9-aa7c-8876291ae8e8)
+
+
+
+
